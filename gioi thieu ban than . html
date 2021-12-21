@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Introduce my self</title>
+</head>
+<body>
+    <h1>name: Nguyễn Duy Hiếu</h1>
+    <h1>nickname: boss</h1>
+    <h1>class: C2110I</h1>
+    <h1>birth: 06/11/2003</h1>
+    <h1>sex: male</h1>
+    <h1>province: Hải Dương</h1>
+    <h1>favorite: đá bóng,bi-a,...</h1>
+    <h1>strength: dễ gần,vui tính,biết lấu ăn,không đi dép trái</h1>
+    <h1>hiện tại đang: single body</h1>
+    <img src=https://www.facebook.com/messenger_media/?thread_id=100040619375845&attachment_id=1525009094547732&message_id=mid.%24cAABa_IWUvOWEDb1--F93HgrutZgh>
+
+
+</body>
+</html>
